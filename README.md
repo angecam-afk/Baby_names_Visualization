@@ -24,4 +24,4 @@ the regional effect, the problem is that it is only for some preselected names.
 Visualization 3: 
 
 The 3rd visulaization is pretty similar to the first one. Again the problem is that locating a specific name is complicated since the position were affected randomly. 
-We could have affected the position depending on the alphabetical order for solving this problem but in the resulting chart the name are too much mashed up together. 
+We have tried to solve this problem by affecting the position depending on the alphabetical order but the problem was that in the resulting chart the name were too much mashed up together. 
